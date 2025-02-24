@@ -1,0 +1,28 @@
+{
+  "listagem": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "email": "joao.silva@example.com",
+      "telefone": "+55 (47) 9****-5678"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Oliveira",
+      "email": "maria.oliveira@example.com",
+      "telefone": "+55 (47) 9****-4321"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Souza",
+      "email": "carlos.souza@example.com",
+      "telefone": "+55 (47) 9****-6789"
+    },
+    {
+      "id": 4,
+      "nome": "Ana Pereira",
+      "email": "ana.pereira@example.com",
+      "telefone": "+55 (47) 9****-7890"
+    }
+  ]
+}
